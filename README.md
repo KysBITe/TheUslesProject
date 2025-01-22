@@ -14,3 +14,4 @@ For example: c:/users/pycharm/pycharm_projects/FORGIT
 Next you must write python or python3 MAIN.py
 
 That's all! everything is ready for your use!
+Attention! Use this program only in full screen mode! otherwise the program may not start!
